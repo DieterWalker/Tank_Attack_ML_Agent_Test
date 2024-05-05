@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Allies
+  - Block
+  - LimitZone
+  - LimitBlock
+  - Enemy
+  - Target
+  - Fench
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Glass
+  - Block
+  - Fench
+  - Agent
+  - Player
+  - Enemy
+  - Hittable
+  - Target
+  - MoveTarget
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buttom
+    uniqueID: 781444731
+    locked: 0
+  - name: SpecialEffect
+    uniqueID: 2518017087
+    locked: 0
+  - name: Glass
+    uniqueID: 1709010273
+    locked: 0
+  - name: Agent
+    uniqueID: 999560779
+    locked: 0
+  - name: Bullet
+    uniqueID: 3930323027
+    locked: 0
+  - name: Fench
+    uniqueID: 604684177
+    locked: 0
+  - name: Block
+    uniqueID: 1821100953
+    locked: 0
+  - name: UI
+    uniqueID: 3061215401
+    locked: 0
