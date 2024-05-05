@@ -1,0 +1,21 @@
+[INFO] TankShooter. Step: 50000. Time Elapsed: 392.858 s. Mean Reward: -0.039. Std of Reward: 0.195. Training.
+[INFO] TankShooter. Step: 100000. Time Elapsed: 730.461 s. Mean Reward: -0.012. Std of Reward: 0.147. Training.
+[INFO] TankShooter. Step: 150000. Time Elapsed: 1075.669 s. Mean Reward: -0.114. Std of Reward: 0.502. Training.
+[INFO] TankShooter. Step: 200000. Time Elapsed: 1418.942 s. Mean Reward: -0.115. Std of Reward: 0.686. Training.
+[INFO] TankShooter. Step: 250000. Time Elapsed: 1763.611 s. Mean Reward: -0.232. Std of Reward: 0.693. Training.
+[INFO] TankShooter. Step: 300000. Time Elapsed: 2116.206 s. Mean Reward: 0.399. Std of Reward: 0.544. Training.
+[INFO] TankShooter. Step: 350000. Time Elapsed: 2454.313 s. Mean Reward: 0.438. Std of Reward: 0.496. Training.
+[INFO] TankShooter. Step: 400000. Time Elapsed: 2823.422 s. Mean Reward: 0.392. Std of Reward: 0.522. Training.
+[INFO] TankShooter. Step: 450000. Time Elapsed: 3191.743 s. Mean Reward: 0.521. Std of Reward: 0.542. Training.
+[INFO] TankShooter. Step: 500000. Time Elapsed: 3544.072 s. Mean Reward: 0.731. Std of Reward: 0.536. Training.
+[INFO] Exported results\2_2_TankMoveDown\TankShooter\TankShooter-499925.onnx
+[INFO] TankShooter. Step: 550000. Time Elapsed: 3909.092 s. Mean Reward: 0.837. Std of Reward: 0.422. Training.
+[INFO] TankShooter. Step: 600000. Time Elapsed: 4272.505 s. Mean Reward: 0.824. Std of Reward: 0.446. Training.
+[INFO] TankShooter. Step: 650000. Time Elapsed: 4631.537 s. Mean Reward: 0.868. Std of Reward: 0.428. Training.
+[INFO] TankShooter. Step: 700000. Time Elapsed: 4984.973 s. Mean Reward: 0.932. Std of Reward: 0.269. Training.
+[INFO] TankShooter. Step: 750000. Time Elapsed: 5346.911 s. Mean Reward: 0.882. Std of Reward: 0.361. Training.
+[INFO] TankShooter. Step: 800000. Time Elapsed: 5707.668 s. Mean Reward: 0.937. Std of Reward: 0.263. Training.
+[INFO] TankShooter. Step: 850000. Time Elapsed: 6074.077 s. Mean Reward: 0.963. Std of Reward: 0.207. Training.
+[INFO] TankShooter. Step: 900000. Time Elapsed: 6439.870 s. Mean Reward: 0.977. Std of Reward: 0.169. Training.
+[INFO] TankShooter. Step: 950000. Time Elapsed: 6795.642 s. Mean Reward: 0.989. Std of Reward: 0.090. Training.
+[INFO] TankShooter. Step: 1000000. Time Elapsed: 7161.937 s. Mean Reward: 0.919. Std of Reward: 0.308. Training.

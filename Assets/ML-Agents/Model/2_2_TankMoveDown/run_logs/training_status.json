@@ -1,0 +1,47 @@
+{
+    "TankShooter": {
+        "checkpoints": [
+            {
+                "steps": 499925,
+                "file_path": "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-499925.onnx",
+                "reward": 0.876387094538058,
+                "creation_time": 1714322920.8940027,
+                "auxillary_file_paths": [
+                    "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-499925.pt"
+                ]
+            },
+            {
+                "steps": 999771,
+                "file_path": "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-999771.onnx",
+                "reward": 0.9611764683150777,
+                "creation_time": 1714326538.7081447,
+                "auxillary_file_paths": [
+                    "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-999771.pt"
+                ]
+            },
+            {
+                "steps": 1000044,
+                "file_path": "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-1000044.onnx",
+                "reward": 0.9619230746936339,
+                "creation_time": 1714326538.8771625,
+                "auxillary_file_paths": [
+                    "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-1000044.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000044,
+            "file_path": "results\\2_2_TankMoveDown\\TankShooter.onnx",
+            "reward": 0.9619230746936339,
+            "creation_time": 1714326538.8771625,
+            "auxillary_file_paths": [
+                "results\\2_2_TankMoveDown\\TankShooter\\TankShooter-1000044.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

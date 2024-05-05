@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce2315a0e6c12dd4aa8d2ff7a09c7c23, type: 3}
   m_Name: BlueTankMovementData
   m_EditorClassIdentifier: 
-  maxSpeed: 75
-  rotationSpeed: 125
+  maxSpeed: 150
+  rotationSpeed: 225
   acceleration: 100
   deacceleration: 100
